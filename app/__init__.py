@@ -1,0 +1,6 @@
+"""Pulse-Check API (Watchdog Sentinel).
+
+Core package initialization.
+"""
+
+__version__ = "1.0.0"
